@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/clavanade/96ecd287-0464-41ef-8011-7ed7e9a8ff79/49e978c5-2323-4f06-9b28-715ec398db72/_apis/work/boardbadge/a6aaef87-8f98-42cf-a95d-c2402ab044d4)](https://dev.azure.com/clavanade/96ecd287-0464-41ef-8011-7ed7e9a8ff79/_boards/board/t/49e978c5-2323-4f06-9b28-715ec398db72/Microsoft.RequirementCategory)
 # Code Scanning C# Tutorial
 
 Welcome to the Code Scanning C# Tutorial! This tutorial will take you through how to set up GitHub Advanced Security's Code Scanning, as well as interpret results that it may find. The following repository contains cross-site scripting vulnerabilities for demonstration purposes.
